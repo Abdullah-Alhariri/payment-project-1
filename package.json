@@ -1,27 +1,19 @@
 {
-  "name": "project-payment-1",
+  "name": "current-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EXPRT101/payment-project-1.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EXPRT101/payment-project-1/issues"
-  },
-  "homepage": "https://github.com/EXPRT101/payment-project-1#readme",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "stripe": "^8.148.0"
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "stripe": "^6.18.1"
   },
   "devDependencies": {
-    "dotenv": "^9.0.0"
+    "dotenv": "^6.2.0"
   }
 }
